@@ -10,7 +10,6 @@ def start_game():
     print("1. Easy (1-50, 15 attempts)")
     print("2. Medium (1-100, 10 attempts)")
     print("3. Hard (1-200, 7 attempts)")
-    
     difficulty = input("Enter the difficulty level (1/2/3): ")
     
     # Set the range and number of attempts based on the chosen difficulty
